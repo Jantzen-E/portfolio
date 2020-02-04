@@ -1,0 +1,42 @@
+body {
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse {
+	background: #2c3e50; 
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.row {
+	margin-bottom: 50px;
+}
+
+footer {
+	background-color: rgb(4, 6, 10);
+	color: #7c90a3;
+	text-align: center;
+	font-size: 20px;
+	border-color: #080808;
+}
+
+.sourceCode {
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+/* .col-lg-4 col-sm-6 {
+	padding-bottom: 100px;
+} */

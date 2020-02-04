@@ -1,0 +1,39 @@
+body {
+    padding-left: 50px;
+    margin-left: 50px;
+}
+
+button {
+    font-size: 40px;
+    padding: 20px;
+}
+
+.linkedIn {
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+} 
+
+.gitHub {
+    font-size: 30px;
+}
+
+.email {
+    font-size: 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+/* span.glyphicon glyphicon-link {
+    font-size: 40px;
+} */
+
+
+
+
+
+
+
+
