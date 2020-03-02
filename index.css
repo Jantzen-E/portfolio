@@ -17,10 +17,15 @@ body {
 
 .navbar-inverse .navbar-brand {
 	color: white;
+	font-size: 2em;
 }
 
 .row {
 	margin-bottom: 50px;
+}
+
+#navButtons {
+	font-size: 2em;
 }
 
 footer {
@@ -43,6 +48,6 @@ footer {
 } */
 
 #changeSize {
-	margin-left: 7%;
-	margin-right: 1%;
+	margin-left: 8%;
+	margin-right: 0%;
 }
