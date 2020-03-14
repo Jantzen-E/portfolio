@@ -38,6 +38,7 @@ footer {
 	text-align: center;
 	font-size: 2.5em;
 	border-color: #080808;
+	width: 100%;
 }
 
 .sourceCode {
@@ -50,8 +51,12 @@ footer {
 	height: 15%
 } */
 
-#changeSize {
+/* #changeSize {
 	margin-left: 9%;
 	margin-right: 0%;
+} */
+
+p {
+	margin-bottom: 0%;
 }
 
